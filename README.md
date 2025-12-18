@@ -10,19 +10,19 @@ karşı oynar.
 
 ### Oyun Başlangıcı – Taş ve Süre Seçimi
 
-![Chess Browser Screenshot 1](chess-browser1.png)
+![Chess Browser Screenshot 1](images/chess-browser1.png)
 
 ### Oyun İçi – Hamleler ve Saatler
 
-![Chess Browser Screenshot 2](chess-browser2.png)
+![Chess Browser Screenshot 2](images/chess-browser2.png)
 
 ### Oyun Ortası – Terfi Penceresi
 
-![Chess Browser Screenshot 3](chess-browser3.png)
+![Chess Browser Screenshot 3](images/chess-browser3.png)
 
 ### Oyun Sonu – Mat / Berabere Ekranı
 
-![Chess Browser Screenshot 3](chess-browser4.png)
+![Chess Browser Screenshot 3](images/chess-browser4.png)
 
 ---
 
@@ -74,3 +74,4 @@ git clone <repo-url>
 cd <repo-name>
 open chess-browser.html
 ```
+
