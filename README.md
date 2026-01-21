@@ -1,3 +1,7 @@
+Deploy edilmişse, direkt açmak için:
+https://cuneytinann.github.io/chess-browser
+
+
 # Browser Chess Game (Vanilla JS)
 
 Bu proje, **harici kütüphane kullanmadan** (pure HTML, CSS ve JavaScript) geliştirilmiş,
@@ -74,4 +78,5 @@ git clone <repo-url>
 cd <repo-name>
 open chess-browser.html
 ```
+
 
